@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
-    <ProjectReference Include="..\Core\Core.csproj" />
-=======
-    <Folder Include="Entities\" />
->>>>>>> 2740d6209ec0743f25e9056698375c6d54af2841
   </ItemGroup>
 
 </Project>
